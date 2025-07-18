@@ -12,3 +12,5 @@ The data for this project is sourced from [Kaggle's PaySim dataset](https://www.
 4. Logistic Regression model development using the scikit-learn module
 5. Applying SMOTE to balance the dataset
 6. Model accuracy analysis (confusion matrix, accuracy, precision, recall, F1 score)
+
+I am involved in data preparation, data exploration, and modeling.
